@@ -1,4 +1,29 @@
 {
+  "name": "tp02-introduccion-a-node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Linkstaer/TP02-Introduccion-a-node#readme",
+  "bugs": {
+    "url": "https://github.com/Linkstaer/TP02-Introduccion-a-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linkstaer/TP02-Introduccion-a-node.git"
+  },
+  "license": "ISC",
+  "author": "Nicolas Navarro, Joaquín Medina",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej01": "node src/ej01.js",
+    "ej02": "node src/ej02.js",
+    "ej03": "node src/ej03.js",
+    "ej04": "node src/ej04.js",
+    "ej05": "node src/ej05.js",
+    "ej06": "node src/ej06.js",
+    "ej07": "node src/ej07.js"
+  },
   "dependencies": {
     "country-data": "^0.0.31"
   }

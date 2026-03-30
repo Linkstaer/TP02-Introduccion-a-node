@@ -1,4 +1,4 @@
-import { PI, sumar, restar, multiplicar, dividir } from "./matematica.js";
+import { PI, sumar, restar, multiplicar, dividir } from "./modules/matematica.js";
 
 console.log("Valor de PI:", PI);
 
